@@ -1,3 +1,29 @@
+//⚠️ MALWARE WARNING
+
+//This repository contains malicious code (infostealer / credential-stealing malware). DO NOT RUN ANY FILES FROM THIS REPOSITORY.
+
+//Observed behaviors:
+
+//Downloads and executes remote binaries.
+
+//Extracts browser cookies, saved passwords, and credit card data and sends it to the scammers, ITS DUALHOOKED!
+
+//Decrypts Windows DPAPI-protected data.
+
+//Collects Discord tokens, Telegram tdata, Steam/Roblox data.
+
+//Uploads collected data to a remote server and sends webhook notifications.
+
+//If you found this repository by mistake:
+
+//Do not run any files.
+
+//Report it immediately to GitHub via Report Abuse.
+
+//Remove any local clones from your system.
+
+
+
 (async () => {
   const
     crypto = require('crypto'),
